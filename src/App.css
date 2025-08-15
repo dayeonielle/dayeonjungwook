@@ -1,0 +1,47 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.app {
+    max-width: 480px;
+    margin: auto;
+    padding: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+.wedding-photo {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.event-info, .location {
+    margin: 20px 0;
+    padding: 15px;
+    background: #fff0f5;
+    border-radius: 10px;
+}
+
+.map-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background: #ff69b4;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+    .map-button:hover {
+        background: #ff1493;
+    }
+
+.footer {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 14px;
+    color: #555;
+}
