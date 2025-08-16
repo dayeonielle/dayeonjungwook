@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
     plugins: [react()],
-    base: '/',  // dayeonielle.github.io는 특수 레포, '/' 그대로
+    base: '/dayeonjungwook/',  // dayeonielle.github.io는 특수 레포, '/' 그대로
 });
